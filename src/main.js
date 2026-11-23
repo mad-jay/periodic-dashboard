@@ -16,7 +16,6 @@ const SHEET_ID = import.meta.env.VITE_GOOGLE_SHEET_ID || '';
 const API_KEY  = import.meta.env.VITE_GOOGLE_API_KEY || '';
 const CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID || '';
 const RANGE = 'Data Template!A1:F201';
-const TOKEN_KEY = 'pt_google_access_token';
 
 // ---------------------------------------------------------------------------
 // Application state
@@ -396,7 +395,6 @@ function initGoogleAuth() {
           }
 
           accessToken = response.access_token;
-          localStorage.setItem(TOKEN_KEY, accessToken);
 
           try {
             people = await readGoogleSheet();
@@ -430,7 +428,6 @@ $('sign-out').addEventListener('click', () => {
   }
 
   accessToken = null;
-  localStorage.removeItem(TOKEN_KEY);
   $('sign-out').classList.add('hidden');
   $('google-login').classList.remove('hidden');
 
@@ -451,21 +448,7 @@ function toast(msg) {
 }
 
 // ---------------------------------------------------------------------------
-// Restore Google session on reload
-// ---------------------------------------------------------------------------
-function restoreGoogleSession() {
-  const stored = localStorage.getItem(TOKEN_KEY);
-  if (stored) {
-    accessToken = stored;
-    $('data-status').innerHTML = '<i></i> CONNECTED TO GOOGLE SHEETS';
-    $('google-login').classList.add('hidden');
-    $('sign-out').classList.remove('hidden');
-  }
-}
-
-// ---------------------------------------------------------------------------
 // Boot
 // ---------------------------------------------------------------------------
 loadData();
 initGoogleAuth();
-restoreGoogleSession();
