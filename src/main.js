@@ -92,10 +92,41 @@ function makeCard(p, index) {
     `<div class="name">${escapeHTML(p.Name)}</div>` +
     `<div class="interest">${escapeHTML(p.Interest)}</div>`;
   
-  el.addEventListener('pointerdown', (e) => {
-    e.stopPropagation();
-    showDetail(p);
-  });
+  // el.addEventListener('pointerdown', (e) => {
+  //   e.stopPropagation();
+  //   showDetail(p);
+  // });
+  // el.addEventListener('click', () => showDetail(p));
+
+  let startX = 0;
+  let startY = 0;
+  let dragged = false;
+
+  const onDown = (e) => {
+    startX = e.clientX;
+    startY = e.clientY;
+    dragged = false;
+    window.addEventListener('pointermove', onMove);
+    window.addEventListener('pointerup', onUp);
+    window.addEventListener('pointercancel', onUp);
+  };
+
+  const onMove = (e) => {
+    if (Math.abs(e.clientX - startX) > 5 || Math.abs(e.clientY - startY) > 5) {
+      dragged = true;
+    }
+  };
+
+  const onUp = () => {
+    window.removeEventListener('pointermove', onMove);
+    window.removeEventListener('pointerup', onUp);
+    window.removeEventListener('pointercancel', onUp);
+    if (!dragged) {
+      showDetail(p);
+    }
+  };
+
+  el.addEventListener('pointerdown', onDown);
   
   return el;
 }
