@@ -386,10 +386,16 @@ $('sign-out').addEventListener('click', () => {
   if (accessToken) {
     google.accounts.oauth2.revoke(accessToken, () => {});
   }
+
   accessToken = null;
   $('sign-out').classList.add('hidden');
   $('google-login').classList.remove('hidden');
-  toast('Signed out. Reload to return to sample data.');
+
+  toast('Signed out. Reloading...');
+
+  setTimeout(() => {
+    window.location.reload();
+  }, 1000);
 });
 
 // ---------------------------------------------------------------------------
