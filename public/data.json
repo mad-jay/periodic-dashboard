@@ -1,1602 +1,1602 @@
 [
   {
-    "Name": "Lee Siew Suan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/019.jpg",
-    "Age": 25,
-    "Country": "CN",
-    "Interest": "Writing",
-    "Net Worth": 251260.8
-  },
-  {
-    "Name": "New Yee Chian",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/020.jpg",
-    "Age": 23,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 60393.6
-  },
-  {
-    "Name": "Wong Thiam Fook",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/021.jpg",
-    "Age": 30,
-    "Country": "CN",
-    "Interest": "Traveling",
-    "Net Worth": 212140.8
-  },
-  {
-    "Name": "Norsuzilawati Mohd Noor",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/022.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 208228.8
-  },
-  {
-    "Name": "Norzainah Omar",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/023.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 106555.2
-  },
-  {
-    "Name": "Meghandran Nathy",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/024.jpg",
-    "Age": 31,
-    "Country": "IN",
-    "Interest": "Cooking",
-    "Net Worth": 139080.0
-  },
-  {
-    "Name": "Joyshree Goswami",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/025.jpg",
-    "Age": 35,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 192278.4
-  },
-  {
-    "Name": "Geetha Maniam",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/026.jpg",
-    "Age": 27,
-    "Country": "IN",
-    "Interest": "Cooking",
-    "Net Worth": 90864.0
-  },
-  {
-    "Name": "Abdul Rahim Osman",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/027.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 141859.2
-  },
-  {
-    "Name": "Prem Anand Raj",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/028.jpg",
-    "Age": 44,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 196113.6
-  },
-  {
-    "Name": "Piara Singh Sarwan Singh",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/029.jpg",
-    "Age": 34,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 207960.0
-  },
-  {
-    "Name": "Othman b Abdul Rahman",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/030.jpg",
-    "Age": 53,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 193200.0
-  },
-  {
-    "Name": "Sathiaseelan Paul Thurai",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/031.jpg",
-    "Age": 59,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 264456.0
-  },
-  {
-    "Name": "Abdul Farid Alias",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0014.jpg",
-    "Age": 36,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 146592.0
-  },
-  {
-    "Name": "Abu Hassan Assari Ibrahim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0010.jpg",
-    "Age": 43,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 213657.6
-  },
-  {
-    "Name": "Faridah Ahmad Iskandar",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/MY_003.jpg",
-    "Age": 31,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 271516.8
-  },
-  {
-    "Name": "Muzaffar Hisham",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0009.jpg",
-    "Age": 35,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 230980.8
-  },
-  {
-    "Name": "Isaac Cardinal",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0088.jpg",
-    "Age": 49,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 259252.8
-  },
-  {
-    "Name": "Prabunathan A/L Gopal",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_021.jpg",
-    "Age": 29,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 271670.4
-  },
-  {
-    "Name": "Taswin Zakaria",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/MY0012.jpg",
-    "Age": 41,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 243840.0
-  },
-  {
-    "Name": "Crystal Carter",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/039.jpg",
-    "Age": 35,
-    "Country": "US",
-    "Interest": "Cooking",
-    "Net Worth": 211550.4
-  },
-  {
-    "Name": "Vivian Grapentine",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/040.jpg",
-    "Age": 36,
-    "Country": "CN",
-    "Interest": "Writing",
-    "Net Worth": 149361.6
-  },
-  {
-    "Name": "Joey De Leion",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/041.jpg",
-    "Age": 35,
-    "Country": "US",
-    "Interest": "Hiking",
-    "Net Worth": 60974.4
-  },
-  {
-    "Name": "Mark Feehily",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/042.jpg",
-    "Age": 30,
-    "Country": "US",
-    "Interest": "Cooking",
-    "Net Worth": 125496.0
-  },
-  {
-    "Name": "Cheong Choong Kong",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/114.jpg",
-    "Age": 25,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 111412.8
-  },
-  {
-    "Name": "George Lee Lap Wah",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/115.jpg",
-    "Age": 31,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 146174.4
-  },
-  {
-    "Name": "Yong Mei Theng",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/116.jpg",
-    "Age": 28,
-    "Country": "CN",
-    "Interest": "Writing",
-    "Net Worth": 187896.0
-  },
-  {
-    "Name": "Tang Zhee Kim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/117.jpg",
-    "Age": 24,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 264355.2
-  },
-  {
-    "Name": "Tan Miaw Wei",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/118.jpg",
-    "Age": 25,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 101841.6
-  },
-  {
-    "Name": "Cheng Ming Soon",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/119.jpg",
-    "Age": 18,
-    "Country": "CN",
-    "Interest": "Traveling",
-    "Net Worth": 210835.2
-  },
-  {
-    "Name": "Lee Fong Fong",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/120.jpg",
-    "Age": 25,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 193017.6
-  },
-  {
-    "Name": "Amir Amran Karim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/121.jpg",
-    "Age": 29,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 147600.0
-  },
-  {
-    "Name": "Krishnan CK Menon",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/122.jpg",
-    "Age": 25,
-    "Country": "IN",
-    "Interest": "Cooking",
-    "Net Worth": 207355.2
-  },
-  {
-    "Name": "Aishwarya Rai",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_041.jpg",
-    "Age": 32,
-    "Country": "IN",
-    "Interest": "Hiking",
-    "Net Worth": 186398.4
-  },
-  {
-    "Name": "Simone Kumar Gopalan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/124.jpg",
-    "Age": 36,
-    "Country": "IN",
-    "Interest": "Hiking",
-    "Net Worth": 327057.6
-  },
-  {
-    "Name": "Maimoonah Hussain",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/125.jpg",
-    "Age": 27,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 181228.8
-  },
-  {
-    "Name": "Chanda Kochar",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/126.jpg",
-    "Age": 30,
-    "Country": "IN",
-    "Interest": "Hiking",
-    "Net Worth": 133228.8
-  },
-  {
-    "Name": "Shyamala Gopinath",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/127.jpg",
-    "Age": 20,
-    "Country": "IN",
-    "Interest": "Traveling",
-    "Net Worth": 267230.4
-  },
-  {
-    "Name": "Suren Zedek",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/128.jpg",
-    "Age": 35,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 89764.8
-  },
-  {
-    "Name": "Danial Kuilan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/129.jpg",
-    "Age": 35,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 246686.4
-  },
-  {
-    "Name": "Levi Asher Anamalai",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/130.jpg",
-    "Age": 19,
-    "Country": "IN",
-    "Interest": "Traveling",
-    "Net Worth": 170260.8
-  },
-  {
-    "Name": "Tristan Martin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/131.jpg",
-    "Age": 52,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 181555.2
-  },
-  {
-    "Name": "David Conner",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0294.jpg",
-    "Age": 55,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 282019.2
-  },
-  {
-    "Name": "Kerry Jen Katona",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0285.jpg",
-    "Age": 43,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 250579.2
-  },
-  {
-    "Name": "Gilbert Kohnke",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/134.jpg",
-    "Age": 55,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 344318.4
-  },
-  {
-    "Name": "Spencer Murray",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/135.jpg",
-    "Age": 52,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 240638.4
-  },
-  {
-    "Name": "Yaacob Mohd Zain",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/136.jpg",
-    "Age": 24,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 205372.8
-  },
-  {
-    "Name": "Hatini Mat Husin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/137.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 350774.4
-  },
-  {
-    "Name": "Ariffin Alias",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/138.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 241670.4
-  },
-  {
-    "Name": "Abdul Malik A Rahman",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/139.jpg",
-    "Age": 42,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 197779.2
-  },
-  {
-    "Name": "Samad Mahid Zain",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/140.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 245827.2
-  },
-  {
-    "Name": "Johan Hashim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/141.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 184915.2
-  },
-  {
-    "Name": "Samsiah Zainal",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/142.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 259180.8
-  },
-  {
-    "Name": "Tay Eng Yaw",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/009.jpg",
-    "Age": 27,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 188457.6
-  },
-  {
-    "Name": "Cynthiea Hong Pei Min",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/010.jpg",
-    "Age": 22,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 164865.6
-  },
-  {
-    "Name": "Lim Yong Siang",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/011.jpg",
-    "Age": 40,
-    "Country": "CN",
-    "Interest": "Gardening",
-    "Net Worth": 347481.6
-  },
-  {
-    "Name": "Mohd Azam Mohd Bakar",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/018.jpg",
-    "Age": 38,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 166795.2
-  },
-  {
-    "Name": "Jagathesan Shanmugam",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/043.jpg",
-    "Age": 43,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 97075.2
-  },
-  {
-    "Name": "Christiana Tharsis",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/044.jpg",
-    "Age": 35,
-    "Country": "IN",
-    "Interest": "Hiking",
-    "Net Worth": 243014.4
-  },
-  {
-    "Name": "Amutha Rakwan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/045.jpg",
-    "Age": 46,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 100396.8
-  },
-  {
-    "Name": "Wan Rosmawati Wan Ibrahim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/046.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 191616.0
-  },
-  {
-    "Name": "Khatimah Mahadi",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/047.jpg",
-    "Age": 29,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 265171.2
-  },
-  {
-    "Name": "Nor Rozita Nordin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/048.jpg",
-    "Age": 32,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 246158.4
-  },
-  {
-    "Name": "Abdul Aziz Man",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/049.jpg",
-    "Age": 32,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 312158.4
-  },
-  {
-    "Name": "Nimma Safira Khalid",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/050.jpg",
-    "Age": 19,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 258384.0
-  },
-  {
-    "Name": "Lam Swee Kim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/012.jpg",
-    "Age": 23,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 148718.4
-  },
-  {
-    "Name": "Tai Yee Shian",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/013.jpg",
-    "Age": 34,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 195206.4
-  },
-  {
-    "Name": "Euodia Ooi",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/014.jpg",
-    "Age": 27,
-    "Country": "CN",
-    "Interest": "Writing",
-    "Net Worth": 52118.4
-  },
-  {
-    "Name": "Ng Jia Nian",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/015.jpg",
-    "Age": 24,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 340464.0
-  },
-  {
-    "Name": "Ong Tze Jun",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/016.jpg",
-    "Age": 36,
-    "Country": "CN",
-    "Interest": "Hiking",
-    "Net Worth": 159739.2
-  },
-  {
-    "Name": "Brian Choong Chee Keong",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/017.jpg",
-    "Age": 21,
-    "Country": "CN",
-    "Interest": "Traveling",
-    "Net Worth": 347659.2
-  },
-  {
-    "Name": "Shaharuddin Abg Mansor",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/086.jpg",
-    "Age": 47,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 351993.6
-  },
-  {
-    "Name": "Mohd Izani Ashari",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/087.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 230179.2
-  },
-  {
-    "Name": "Roshan Thiran",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/088.jpg",
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 26,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 369652.8
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
   },
   {
-    "Name": "Shahazwan Harris",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/089.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 364948.8
-  },
-  {
-    "Name": "Saiful Dzulkifly",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/090.jpg",
-    "Age": 36,
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
     "Country": "MY",
     "Interest": "Painting",
-    "Net Worth": 360115.2
+    "Net Worth": 75390.6
   },
   {
-    "Name": "Jamie Haniff Ramlee",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/091.jpg",
-    "Age": 47,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 174312.0
-  },
-  {
-    "Name": "Azim Azli",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/092.jpg",
-    "Age": 50,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 160252.8
-  },
-  {
-    "Name": "Zaida Khalida Shaari",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/093.jpg",
-    "Age": 25,
-    "Country": "MY",
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
     "Interest": "Cooking",
-    "Net Worth": 163104.0
+    "Net Worth": 221640.8
   },
   {
-    "Name": "Nurul Nabila Huda Che Ad",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/094.jpg",
-    "Age": 39,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 247579.2
-  },
-  {
-    "Name": "Sarimah Samad-Imran",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/095.jpg",
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 29,
     "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 102580.8
-  },
-  {
-    "Name": "Wan Nur Nordiyana",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/096.jpg",
-    "Age": 25,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 264705.6
-  },
-  {
-    "Name": "Fatimah Husna",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/097.jpg",
-    "Age": 25,
-    "Country": "MY",
     "Interest": "Writing",
-    "Net Worth": 72710.4
+    "Net Worth": 198428.8
   },
   {
-    "Name": "Nurshafiqah Saad",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/098.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 128750.4
-  },
-  {
-    "Name": "Amerjit Singh Bhag Singh",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_005.jpg",
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 31,
     "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 205171.2
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
   },
   {
-    "Name": "Nora Abd Manaf",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/100.jpg",
-    "Age": 29,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 168096.0
-  },
-  {
-    "Name": "Walter Michael Chan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/101.jpg",
-    "Age": 29,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 197083.2
-  },
-  {
-    "Name": "Teng Chean Choy",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/102.jpg",
-    "Age": 32,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 145862.4
-  },
-  {
-    "Name": "Chua Bee Chin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/103.jpg",
-    "Age": 23,
-    "Country": "CN",
-    "Interest": "Painting",
-    "Net Worth": 159883.2
-  },
-  {
-    "Name": "Santhanamary John",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/155.jpg",
-    "Age": 25,
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
     "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 135878.4
-  },
-  {
-    "Name": "Nor Arzlin Redzwan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/156.jpg",
-    "Age": 42,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 66907.2
-  },
-  {
-    "Name": "Zuraidah Atan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/157.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 104649.6
-  },
-  {
-    "Name": "Shahrul Izzan Abdul Karim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/158.jpg",
-    "Age": 29,
-    "Country": "MY",
     "Interest": "Traveling",
-    "Net Worth": 46363.2
+    "Net Worth": 145780.0
   },
   {
-    "Name": "Putri Shireen Syed Othman",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_047.jpg",
-    "Age": 33,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 96628.8
-  },
-  {
-    "Name": "Abdul Hadzi Marzuki",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/160.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 117273.6
-  },
-  {
-    "Name": "Yasmin Ahmad",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/161.jpg",
-    "Age": 24,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 58833.6
-  },
-  {
-    "Name": "Halipah Binti Esa",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/162.jpg",
-    "Age": 29,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 102676.8
-  },
-  {
-    "Name": "Habibah Abdul",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/163.jpg",
-    "Age": 37,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 210993.6
-  },
-  {
-    "Name": "Zulkarnain Ahmad",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/164.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 71361.6
-  },
-  {
-    "Name": "Fauziah Mohd Noor",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/165.jpg",
-    "Age": 24,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 126532.8
-  },
-  {
-    "Name": "Mohd Yunus Idris",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/196.jpg",
-    "Age": 39,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 143112.0
-  },
-  {
-    "Name": "Ahmad Jauhari Yahya",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/197.jpg",
-    "Age": 21,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 159422.4
-  },
-  {
-    "Name": "Saifol Bahri Mohamad Shamlan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/198.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 198936.0
-  },
-  {
-    "Name": "Isham Ishak",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/199.jpg",
-    "Age": 40,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 112598.4
-  },
-  {
-    "Name": "Mohd Hafizuddin Mansor",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/200.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 99624.0
-  },
-  {
-    "Name": "Stuart Cardell",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0292.jpg",
-    "Age": 44,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 44140.8
-  },
-  {
-    "Name": "Abigail Wellington",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0237.jpg",
-    "Age": 33,
-    "Country": "US",
-    "Interest": "Painting",
-    "Net Worth": 126201.6
-  },
-  {
-    "Name": "Gino Chin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/c_035.jpg",
-    "Age": 33,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 178569.6
-  },
-  {
-    "Name": "Meon Khor",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/c_016.jpg",
-    "Age": 37,
-    "Country": "CN",
-    "Interest": "Writing",
-    "Net Worth": 132936.0
-  },
-  {
-    "Name": "Lim Joo ann",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/c_013.jpg",
-    "Age": 30,
-    "Country": "CN",
-    "Interest": "Writing",
-    "Net Worth": 183110.4
-  },
-  {
-    "Name": "Yong Hai Wen",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CN_038.jpg",
-    "Age": 19,
-    "Country": "CN",
-    "Interest": "Traveling",
-    "Net Worth": 259123.2
-  },
-  {
-    "Name": "Yuki Low Mei Shan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CN_024.jpg",
-    "Age": 28,
-    "Country": "CN",
-    "Interest": "Hiking",
-    "Net Worth": 191016.0
-  },
-  {
-    "Name": "Jessica Tee Yan Lai",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/J_013.jpg",
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 36,
     "Country": "CN",
     "Interest": "Hiking",
-    "Net Worth": 152433.6
+    "Net Worth": 187978.4
   },
   {
-    "Name": "Sam Yam",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/J_003.jpg",
-    "Age": 29,
-    "Country": "CN",
-    "Interest": "Cooking",
-    "Net Worth": 57499.2
-  },
-  {
-    "Name": "Shanker Jorrama",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_057.jpg",
-    "Age": 36,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 220142.4
-  },
-  {
-    "Name": "Vick Viknes",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_010.jpg",
-    "Age": 21,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 267307.2
-  },
-  {
-    "Name": "Arul Krishnan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_035.jpg",
-    "Age": 35,
-    "Country": "IN",
-    "Interest": "Hiking",
-    "Net Worth": 69883.2
-  },
-  {
-    "Name": "Shamini Mohanan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_014.jpg",
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 28,
     "Country": "IN",
     "Interest": "Writing",
-    "Net Worth": 363681.6
+    "Net Worth": 96864.0
   },
   {
-    "Name": "Theodore Frazer",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/o_009.jpg",
-    "Age": 49,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 361166.4
-  },
-  {
-    "Name": "Aju Varghese",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_028.jpg",
-    "Age": 43,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 324686.4
-  },
-  {
-    "Name": "Shahrukh Khan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_032.jpg",
-    "Age": 40,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 287155.2
-  },
-  {
-    "Name": "Prithviraj Sukumaran",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_040.jpg",
-    "Age": 50,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 363739.2
-  },
-  {
-    "Name": "Sarah Miller",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0134.jpg",
-    "Age": 32,
-    "Country": "US",
-    "Interest": "Painting",
-    "Net Worth": 101832.0
-  },
-  {
-    "Name": "Monali Thakur",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_016.jpg",
-    "Age": 29,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 162710.4
-  },
-  {
-    "Name": "Keerubalami Ponnudi",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_044.jpg",
-    "Age": 36,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 177052.8
-  },
-  {
-    "Name": "Saint Sahana",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/i_023.jpg",
-    "Age": 37,
-    "Country": "IN",
-    "Interest": "Hiking",
-    "Net Worth": 314136.0
-  },
-  {
-    "Name": "Munish Thabur",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_020.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 171758.4
-  },
-  {
-    "Name": "Yogesh Balakrishnamur",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_011.jpg",
-    "Age": 21,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 238915.2
-  },
-  {
-    "Name": "Sharmilla Mogan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_049.jpg",
-    "Age": 19,
-    "Country": "IN",
-    "Interest": "Traveling",
-    "Net Worth": 173740.8
-  },
-  {
-    "Name": "Janesree Gunasegern",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_045.jpg",
-    "Age": 32,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 187512.0
-  },
-  {
-    "Name": "Preya Nadarasa",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/i_018.jpg",
-    "Age": 26,
-    "Country": "IN",
-    "Interest": "Cooking",
-    "Net Worth": 247233.6
-  },
-  {
-    "Name": "Uma Shamini",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/i_028.jpg",
-    "Age": 24,
-    "Country": "IN",
-    "Interest": "Cooking",
-    "Net Worth": 201451.2
-  },
-  {
-    "Name": "Geetha Kumar",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_053.jpg",
-    "Age": 18,
-    "Country": "IN",
-    "Interest": "Traveling",
-    "Net Worth": 164433.6
-  },
-  {
-    "Name": "Jeeva Rajadran",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_031.jpg",
-    "Age": 38,
-    "Country": "IN",
-    "Interest": "Cooking",
-    "Net Worth": 192969.6
-  },
-  {
-    "Name": "Nadaraajan Perumal",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_008.jpg",
-    "Age": 25,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 165604.8
-  },
-  {
-    "Name": "Shri Gobaradhan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_039.jpg",
-    "Age": 39,
-    "Country": "IN",
-    "Interest": "Writing",
-    "Net Worth": 218740.8
-  },
-  {
-    "Name": "Satees Muniady",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_034.jpg",
-    "Age": 44,
-    "Country": "IN",
-    "Interest": "Gardening",
-    "Net Worth": 191673.6
-  },
-  {
-    "Name": "Nur Syazwani Nabilah Ibrahim",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_190.jpg",
-    "Age": 33,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 210110.4
-  },
-  {
-    "Name": "Geetha Davethas",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_042.jpg",
-    "Age": 24,
-    "Country": "IN",
-    "Interest": "Hiking",
-    "Net Worth": 199689.6
-  },
-  {
-    "Name": "Pricella Ance",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/G_027.jpg",
-    "Age": 34,
-    "Country": "US",
-    "Interest": "Cooking",
-    "Net Worth": 141801.6
-  },
-  {
-    "Name": "Kumarran Thanrayan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/i_013.jpg",
-    "Age": 28,
-    "Country": "IN",
-    "Interest": "Cooking",
-    "Net Worth": 128222.4
-  },
-  {
-    "Name": "Tineswary Pannaparon",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/i_002.jpg",
-    "Age": 21,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 94281.6
-  },
-  {
-    "Name": "Vinothyni Anannthi",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_015.jpg",
-    "Age": 22,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 357902.4
-  },
-  {
-    "Name": "Pilva Bhatia",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/IND_013.jpg",
-    "Age": 29,
-    "Country": "IN",
-    "Interest": "Painting",
-    "Net Worth": 213988.8
-  },
-  {
-    "Name": "Wan Nahijah Mohamad",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_027.jpg",
-    "Age": 24,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 183710.4
-  },
-  {
-    "Name": "Rahimi Muhamad",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_066.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 191452.8
-  },
-  {
-    "Name": "Shuhada Shahira",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_090.jpg",
-    "Age": 19,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 258057.6
-  },
-  {
-    "Name": "Yana Husin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_202.jpg",
-    "Age": 49,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 129523.2
-  },
-  {
-    "Name": "Yusri Shafie",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_163.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 166843.2
-  },
-  {
-    "Name": "Nurul Shafiza Mat Isa",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_166.jpg",
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 32,
     "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 257068.8
-  },
-  {
-    "Name": "Aidan Ohara",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_194.jpg",
-    "Age": 27,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 260635.2
-  },
-  {
-    "Name": "Ella Berry",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0128.jpg",
-    "Age": 35,
-    "Country": "US",
-    "Interest": "Cooking",
-    "Net Worth": 131736.0
-  },
-  {
-    "Name": "Noor Atheerah Zulkipli",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_178.jpg",
-    "Age": 31,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 154046.4
-  },
-  {
-    "Name": "Ikmal Zakaria",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_185.jpg",
-    "Age": 32,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 197380.8
-  },
-  {
-    "Name": "Syed Azuwan Syed Helmi",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_047.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 163905.6
-  },
-  {
-    "Name": "Haziq Zamri",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_187.jpg",
-    "Age": 27,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 99048.0
-  },
-  {
-    "Name": "Nor Fazila",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_056.jpg",
-    "Age": 29,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 189384.0
-  },
-  {
-    "Name": "Muhd Ruzhan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_116.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 232641.6
-  },
-  {
-    "Name": "Azhar Masli",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_154.jpg",
-    "Age": 29,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 212256.0
-  },
-  {
-    "Name": "Mohd Riduan Hamin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_120.jpg",
-    "Age": 40,
-    "Country": "MY",
     "Interest": "Gardening",
-    "Net Worth": 235483.2
+    "Net Worth": 135859.2
   },
   {
-    "Name": "Freya Rogers",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0274.jpg",
-    "Age": 30,
-    "Country": "US",
-    "Interest": "Painting",
-    "Net Worth": 240427.2
-  },
-  {
-    "Name": "Harris Azman",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_181.jpg",
-    "Age": 38,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 232377.6
-  },
-  {
-    "Name": "Muhammad Adli Azri",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/th_337.jpg",
-    "Age": 24,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 280248.0
-  },
-  {
-    "Name": "Jafri Mohd",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_177.jpg",
-    "Age": 29,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 314107.2
-  },
-  {
-    "Name": "Aten Zulkifly",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_019.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 237307.2
-  },
-  {
-    "Name": "Eyqa Hassan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_045.jpg",
-    "Age": 25,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 112651.2
-  },
-  {
-    "Name": "Muhd Yazid",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_018.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 76492.8
-  },
-  {
-    "Name": "Muhammad Syafiq Suhaimi",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_027.jpg",
-    "Age": 39,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 341563.2
-  },
-  {
-    "Name": "Nashrul Amin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_014.jpg",
-    "Age": 62,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 154632.0
-  },
-  {
-    "Name": "Nur Syahirah",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_064.jpg",
-    "Age": 21,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 148492.8
-  },
-  {
-    "Name": "Syamimy Ghani",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_114.jpg",
-    "Age": 20,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 200347.2
-  },
-  {
-    "Name": "Shahir Sukri",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_028.jpg",
-    "Age": 34,
-    "Country": "MY",
-    "Interest": "Painting",
-    "Net Worth": 282700.8
-  },
-  {
-    "Name": "Amierul Miyul",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_030.jpg",
-    "Age": 48,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 321004.8
-  },
-  {
-    "Name": "Nara Sharkirra",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_090.jpg",
-    "Age": 23,
-    "Country": "MY",
-    "Interest": "Writing",
-    "Net Worth": 338539.2
-  },
-  {
-    "Name": "Muhamad Hafiz Bob",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_022.jpg",
-    "Age": 59,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 240312.0
-  },
-  {
-    "Name": "Mohd Shahril",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_023.jpg",
-    "Age": 48,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 252984.0
-  },
-  {
-    "Name": "Eyka Abdul Ghani",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_091.jpg",
-    "Age": 23,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 233726.4
-  },
-  {
-    "Name": "Mohamad Khuzairy",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_167.jpg",
-    "Age": 33,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 118766.4
-  },
-  {
-    "Name": "Nana Hanna",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_179.jpg",
-    "Age": 20,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 226276.8
-  },
-  {
-    "Name": "Mohd Hanafi Azhar ",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_034.jpg",
-    "Age": 62,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 332568.0
-  },
-  {
-    "Name": "Zenki Afra",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_045.jpg",
-    "Age": 60,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 168600.0
-  },
-  {
-    "Name": "Mohamad Hairie",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/p_050.jpg",
-    "Age": 48,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 300566.4
-  },
-  {
-    "Name": "Mohd Syafiq",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_168.jpg",
-    "Age": 57,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 215164.8
-  },
-  {
-    "Name": "Muhammad Ashri",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_165.jpg",
-    "Age": 27,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 206568.0
-  },
-  {
-    "Name": "Yusni Asnida",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/mus_024.jpg",
-    "Age": 20,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 167016.0
-  },
-  {
-    "Name": "Shaheera Mohd Aniq",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_049.jpg",
-    "Age": 19,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 248865.6
-  },
-  {
-    "Name": "Nursyamimi Atiqah ",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_103.jpg",
-    "Age": 27,
-    "Country": "MY",
-    "Interest": "Cooking",
-    "Net Worth": 288734.4
-  },
-  {
-    "Name": "Catherine Wheeler",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/G_038.jpg",
-    "Age": 23,
-    "Country": "US",
-    "Interest": "Hiking",
-    "Net Worth": 53697.6
-  },
-  {
-    "Name": "Azizah Mahzan",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_110.jpg",
-    "Age": 28,
-    "Country": "MY",
-    "Interest": "Hiking",
-    "Net Worth": 210508.8
-  },
-  {
-    "Name": "Mohd Azmi",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/m_149.jpg",
-    "Age": 30,
-    "Country": "MY",
-    "Interest": "Traveling",
-    "Net Worth": 212006.4
-  },
-  {
-    "Name": "Anastasia Morrison",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/G_035.jpg",
-    "Age": 33,
-    "Country": "US",
-    "Interest": "Hiking",
-    "Net Worth": 71625.6
-  },
-  {
-    "Name": "Razak Muhaidin",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/ph_151.jpg",
-    "Age": 40,
-    "Country": "MY",
-    "Interest": "Gardening",
-    "Net Worth": 259934.4
-  },
-  {
-    "Name": "Helena Tillsley",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/o_014.jpg",
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 45,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 192369.6
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
   },
   {
-    "Name": "Ryder Fletcher",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/G_057.jpg",
-    "Age": 50,
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
     "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 257323.2
+    "Interest": "Photography",
+    "Net Worth": 172450.8
   },
   {
-    "Name": "Sara Fessenden",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/G_058.jpg",
-    "Age": 38,
-    "Country": "US",
-    "Interest": "Writing",
-    "Net Worth": 145972.8
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
   },
   {
-    "Name": "Jeffrey Ewing",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/J_011.jpg",
-    "Age": 49,
-    "Country": "CN",
-    "Interest": "Gardening",
-    "Net Worth": 254068.8
-  },
-  {
-    "Name": "Dawson Hoffman",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0162.jpg",
-    "Age": 38,
-    "Country": "US",
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
     "Interest": "Cooking",
-    "Net Worth": 181804.8
+    "Net Worth": 218640.8
   },
   {
-    "Name": "Jonne Macdonald",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/G_052.jpg",
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
     "Age": 36,
-    "Country": "US",
+    "Country": "CA",
     "Interest": "Hiking",
-    "Net Worth": 212760.0
+    "Net Worth": 187978.4
   },
   {
-    "Name": "Pierre Henry",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/CA0267.jpg",
-    "Age": 52,
-    "Country": "US",
-    "Interest": "Gardening",
-    "Net Worth": 127704.0
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
   },
   {
-    "Name": "Collen McClintock",
-    "Photo": "https://static.kasatria.com/pivot-img/photo/G_039.jpg",
-    "Age": 51,
-    "Country": "US",
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
     "Interest": "Gardening",
-    "Net Worth": 261883.2
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Daniel Tan Wei Jie",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 26,
+    "Country": "CN",
+    "Interest": "Traveling",
+    "Net Worth": 184520.8
+  },
+  {
+    "Name": "Aisha Nur Iman",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "MY",
+    "Interest": "Painting",
+    "Net Worth": 75390.6
+  },
+  {
+    "Name": "Jason Lim Jun Hao",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "CN",
+    "Interest": "Cooking",
+    "Net Worth": 221640.8
+  },
+  {
+    "Name": "Nurul Huda Aziz",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "MY",
+    "Interest": "Writing",
+    "Net Worth": 198428.8
+  },
+  {
+    "Name": "Kavitha Rajendran",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "IN",
+    "Interest": "Gardening",
+    "Net Worth": 112755.2
+  },
+  {
+    "Name": "Arjun Kumar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "IN",
+    "Interest": "Traveling",
+    "Net Worth": 145780.0
+  },
+  {
+    "Name": "Michelle Wong",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CN",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Nair",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Farid Hakim",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "MY",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Ravi Shankar",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "IN",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
+  },
+  {
+    "Name": "Ethan Mitchell",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 27,
+    "Country": "US",
+    "Interest": "Photography",
+    "Net Worth": 172450.8
+  },
+  {
+    "Name": "Olivia Chen",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 24,
+    "Country": "SG",
+    "Interest": "Painting",
+    "Net Worth": 83420.6
+  },
+  {
+    "Name": "Lucas Anderson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 32,
+    "Country": "AU",
+    "Interest": "Cooking",
+    "Net Worth": 218640.8
+  },
+  {
+    "Name": "Amelia Johnson",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 29,
+    "Country": "UK",
+    "Interest": "Writing",
+    "Net Worth": 195328.8
+  },
+  {
+    "Name": "Haruto Yamamoto",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 31,
+    "Country": "JP",
+    "Interest": "Gardening",
+    "Net Worth": 108755.2
+  },
+  {
+    "Name": "Sofia Martinez",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 33,
+    "Country": "ES",
+    "Interest": "Traveling",
+    "Net Worth": 148780.0
+  },
+  {
+    "Name": "Noah Williams",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 36,
+    "Country": "CA",
+    "Interest": "Hiking",
+    "Net Worth": 187978.4
+  },
+  {
+    "Name": "Priya Sharma",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 28,
+    "Country": "IN",
+    "Interest": "Writing",
+    "Net Worth": 96864.0
+  },
+  {
+    "Name": "Alexander Müller",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 34,
+    "Country": "DE",
+    "Interest": "Gardening",
+    "Net Worth": 135859.2
+  },
+  {
+    "Name": "Chloe Laurent",
+    "Photo": "https://artscimedia.case.edu/wp-content/uploads/sites/79/2016/12/14205134/no-user-image.gif",
+    "Age": 45,
+    "Country": "FR",
+    "Interest": "Painting",
+    "Net Worth": 205113.6
   }
 ]
