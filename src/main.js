@@ -91,7 +91,12 @@ function makeCard(p, index) {
     `<img class="photo" src="${escapeHTML(p.Photo)}" alt="" loading="lazy" onerror="this.style.opacity=0">` +
     `<div class="name">${escapeHTML(p.Name)}</div>` +
     `<div class="interest">${escapeHTML(p.Interest)}</div>`;
-  el.addEventListener('click', () => showDetail(p));
+  
+  el.addEventListener('pointerdown', (e) => {
+    e.stopPropagation();
+    showDetail(p);
+  });
+  
   return el;
 }
 
@@ -272,13 +277,17 @@ function onResize() {
 // Detail panel
 // ---------------------------------------------------------------------------
 function showDetail(p) {
+  const cls = wealthClass(p['Net Worth']);
+  const detail = $('detail');
+  detail.classList.remove('red', 'orange', 'green');
+  detail.classList.add(cls);
   $('detail-content').innerHTML =
     `<img src="${escapeHTML(p.Photo)}" alt="">` +
     `<h2>${escapeHTML(p.Name)}</h2>` +
     `<p>${escapeHTML(p.Country)} · ${escapeHTML(p.Age)} years old</p>` +
     `<p>Interest: <strong>${escapeHTML(p.Interest)}</strong></p>` +
     `<p>Net worth: <strong>${money(p['Net Worth'])}</strong></p>`;
-  $('detail').classList.remove('hidden');
+  detail.classList.remove('hidden');
 }
 
 $('close-detail').addEventListener('click', () =>
